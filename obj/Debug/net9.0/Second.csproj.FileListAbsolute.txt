@@ -1,0 +1,14 @@
+D:\Dot net projects\Second\bin\Debug\net9.0\Second.exe
+D:\Dot net projects\Second\bin\Debug\net9.0\Second.deps.json
+D:\Dot net projects\Second\bin\Debug\net9.0\Second.runtimeconfig.json
+D:\Dot net projects\Second\bin\Debug\net9.0\Second.dll
+D:\Dot net projects\Second\bin\Debug\net9.0\Second.pdb
+D:\Dot net projects\Second\obj\Debug\net9.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net projects\Second\obj\Debug\net9.0\Second.AssemblyInfoInputs.cache
+D:\Dot net projects\Second\obj\Debug\net9.0\Second.AssemblyInfo.cs
+D:\Dot net projects\Second\obj\Debug\net9.0\Second.csproj.CoreCompileInputs.cache
+D:\Dot net projects\Second\obj\Debug\net9.0\Second.dll
+D:\Dot net projects\Second\obj\Debug\net9.0\refint\Second.dll
+D:\Dot net projects\Second\obj\Debug\net9.0\Second.pdb
+D:\Dot net projects\Second\obj\Debug\net9.0\Second.genruntimeconfig.cache
+D:\Dot net projects\Second\obj\Debug\net9.0\ref\Second.dll
